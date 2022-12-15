@@ -1,0 +1,50 @@
+.mytitle{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 300%;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    background-image: url(../assets/img/post-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+    margin-left: 0px;
+}
+.bodytext{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: medium;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.footertext{
+    align-items: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+    color: darkgray;
+}
+.subheaders{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    font-weight: bold;
+}
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    border-color:cornflowerblue;
+    background-color: cornflowerblue;
+    color: white;
+    padding: 20px;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+}
+.img{
+    max-width: 100%;
+    height: auto;
+}
+.div{
+    align-items: center;
+}
